@@ -1,3 +1,3 @@
 # todolist.github.io
-My first project!
+My first project! <br />
 A development of W3Schools To Do List
